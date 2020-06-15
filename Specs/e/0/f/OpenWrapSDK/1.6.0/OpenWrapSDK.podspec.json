@@ -81,9 +81,6 @@
         "OpenWrapSDK/Video": [
 
         ],
-        "OpenWrapSDK/Measurement": [
-
-        ],
         "OpenWrapSDK/Monitor": [
 
         ]
@@ -99,9 +96,6 @@
 
         ],
         "OpenWrapSDK/Video": [
-
-        ],
-        "OpenWrapSDK/Measurement": [
 
         ]
       },
