@@ -6,7 +6,7 @@
   "license": "Apache",
   "authors": "Kakaogames Corp",
   "source": {
-    "http": "https://kakao-sdk-release.s3.amazonaws.com/KakaoGameSDK/iOS/KakaoGameSDK_iOS_3.10.11_Publishing.zip"
+    "http": "https://kakao-sdk-release.s3.amazonaws.com/KakaoGameSDK/iOS/KakaoGameSDK_iOS_3.10.11_Channeling.zip"
   },
   "platforms": {
     "ios": "9.0"
