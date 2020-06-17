@@ -16,7 +16,10 @@
     "FreestarAds": [
       "~> 3.2"
     ],
-    "mopub-ios-sdk": [
+    "mopub-ios-sdk/Core": [
+      "~> 5.12.1"
+    ],
+    "mopub-ios-sdk/NativeAds": [
       "~> 5.12.1"
     ]
   },

@@ -45,8 +45,9 @@
         "ios": "8.0"
       },
       "vendored_frameworks": [
-        "AnyThinkiOS/AnyThink{Banner,Splash,SDK,RewardedVideo,Interstitial,HeaderBidding,Native,MyOffer,MyOfferInterstitialAdapter,MyOfferRewardedVideoAdapter}.framework",
-        "AnyThinkiOS/TraminiSDK.framework"
+        "AnyThinkiOS/AnyThink{Banner,Splash,SDK,RewardedVideo,Interstitial,HeaderBidding,Native,MyOffer}.framework",
+        "AnyThinkiOS/TraminiSDK.framework",
+        "AnyThinkiOS/AnyThinkMyOffer*.framework"
       ],
       "resources": "AnyThinkiOS/AnyThinkSDK.bundle"
     },
@@ -337,18 +338,6 @@
         "ios": "8.0"
       },
       "vendored_frameworks": "AnyThinkiOS/AnyThinkOgury*.framework"
-    },
-    {
-      "name": "AnyThinkMyOfferAdapter",
-      "dependencies": {
-        "AnyThinkiOS/AnyThinkSDK": [
-
-        ]
-      },
-      "platforms": {
-        "ios": "8.0"
-      },
-      "vendored_frameworks": "AnyThinkiOS/AnyThinkMyOffer*.framework"
     },
     {
       "name": "AnyThinkStartAppAdapter",
